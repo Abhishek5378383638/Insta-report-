@@ -18,7 +18,7 @@ To get started with the Instagram Reporting program, follow these simple steps:
 
 3. Clone the Instagram Reporting program repository:
    ```
-   git clone https://github.com/jarvisstar/instagram-reporter.git
+   https://github.com/Abhishek5378383638/Insta-report-.git
    ```
 
 4. Navigate to the program's directory:
